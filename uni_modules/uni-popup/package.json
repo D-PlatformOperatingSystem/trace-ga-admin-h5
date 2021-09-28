@@ -1,0 +1,70 @@
+{
+  "id": "uni-popup",
+  "displayName": "uni-popup ",
+  "version": "1.4.2",
+  "description": " Popup ",
+  "keywords": [
+    "uni-ui",
+    "uniui",
+    ""
+],
+  "repository": "https://github.com/dcloudio/uni-ui",
+  "engines": {
+    "HBuilderX": ""
+  },
+  "directories": {
+    "example": "../../temps/example_temps"
+  },
+  "dcloudext": {
+    "category": [
+      "",
+      ""
+    ],
+    "sale": {
+      "regular": {
+        "price": "0.00"
+      },
+      "sourcecode": {
+        "price": "0.00"
+      }
+    },
+    "contact": {
+      "qq": ""
+    },
+    "declaration": {
+      "ads": "",
+      "data": "",
+      "permissions": ""
+    },
+    "npmurl": "https://www.npmjs.com/package/@dcloudio/uni-ui"
+  },
+  "uni_modules": {
+    "dependencies": [
+      "uni-transition"
+    ],
+    "encrypt": [],
+    "platforms": {
+      "cloud": {
+        "tcb": "y",
+        "aliyun": "y"
+      },
+      "client": {
+        "App": {
+          "app-vue": "y",
+          "app-nvue": "y"
+        },
+        "H5-mobile": {
+          "Safari": "y",
+          "Android Browser": "y"
+        },
+        "H5-pc": {
+          "Chrome": "y",
+          "IE": "y",
+          "Edge": "y",
+          "Firefox": "y",
+          "Safari": "y"
+        }
+      }
+    }
+  }
+}

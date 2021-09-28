@@ -1,0 +1,77 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2837577 */
+  src: url('~@/static/iconfont/iconfont.ttf') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-PersonalCenter:before {
+  content: "\e611";
+}
+
+.icon-IDNumber:before {
+  content: "\e624";
+}
+
+.icon-mobilePhone:before {
+  content: "\e68d";
+}
+
+.icon-cert:before {
+  content: "\e614";
+}
+
+.icon-Clock:before {
+  content: "\e600";
+}
+
+.icon-birthday:before {
+  content: "\e62e";
+}
+
+.icon-plus:before {
+  content: "\e603";
+}
+
+.icon-spot:before {
+  content: "\e608";
+}
+
+.icon-spotBig:before {
+  content: "\e621";
+}
+
+.icon-sort:before {
+  content: "\e609";
+}
+
+.icon-SortingProblem:before {
+  content: "\e62f";
+}
+
+.icon-date:before {
+  content: "\e64d";
+}
+
+.icon-gender:before {
+  content: "\e63e";
+}
+
+.icon-USA:before {
+  content: "\e605";
+}
+
+.icon-LanguageSwitch:before {
+  content: "\e620";
+}
+
+.icon-China:before {
+  content: "\e63d";
+}
+
